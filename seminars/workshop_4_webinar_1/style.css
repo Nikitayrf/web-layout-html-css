@@ -67,8 +67,7 @@ body {
     font-size: 18px;
     font-style: normal;
     font-weight: 600;
-    line-height: 160%;
-    /* 28.8px */
+    line-height: 160%; /* 28.8px */
     text-transform: uppercase;
     margin-bottom: 10px;
 }
@@ -79,8 +78,7 @@ body {
     font-size: 49px;
     font-style: normal;
     font-weight: 600;
-    line-height: 130%;
-    /* 71.5px */
+    line-height: 130%; /* 71.5px */
     margin-bottom: 40px;
 }
 
@@ -90,8 +88,7 @@ body {
     font-size: 18px;
     font-style: normal;
     font-weight: 600;
-    line-height: 160%;
-    /* 28.8px */
+    line-height: 160%; /* 28.8px */
     margin-bottom: 50px;
     opacity: 0.7;
 }
